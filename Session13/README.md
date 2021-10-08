@@ -24,14 +24,14 @@ Monday, Oct 04, 2021
  
  * LECTURE 0  o  [The Inevitability of the Time Domain](Day1/InevitabilityOfTheTimeDomain.ipynb); A. Miller [:octocat:](https://github.com/adamamiller)
  * LECTURE I  o  [Introduction to Fourier Series and Transforms](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet)
- * NOTEBOOK I  o  [Introduction to Fourier Series and Transforms — Problems](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet)
+ * NOTEBOOK I  o  [Introduction to Fourier Series and Transforms — Problems](Day1/IntroductionToFourierSeriesAndTransforms.ipynb); L. Bugnet [:octocat:](https://github.com/lbugnet) – [Solutions](Day1/IntroductionToFourierSeriesAndTransformsSolutions.ipynb)
 
 ## [Day 2](Day2) — The Most Normal Process in the World
 
 Tuesday, Oct 05, 2021
 
  * LECTURE II  o  [An Introduction to Gaussian Processes](Day2/AnIntroductionToGaussianProcesses.pdf); R. Luger [:octocat:](https://github.com/rodluger) — [Problems](Day2/01-Introduction-to-GPs.ipynb); [Solutions](Day2/answers/01-Introduction-to-GPs.ipynb)
- * NOTEBOOK II  o  [Fast GPs](Day2/02-Fast-GPs.ipyn); R. Luger [:octocat:](https://github.com/rodluger) — [Solutions](Day2/answers/02-Fast-GPs.ipynb)
+ * NOTEBOOK II  o  [Fast GPs](Day2/02-Fast-GPs.ipynb); R. Luger [:octocat:](https://github.com/rodluger) — [Solutions](Day2/answers/02-Fast-GPs.ipynb)
  
 ## [Day 3](Day3) — Mind the Gap
 
