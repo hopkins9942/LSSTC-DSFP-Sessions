@@ -8,3 +8,8 @@ __pycache__
 
 **/Session15/Day1/*.txt
 **/Session15/Day1/*.npy
+
+**/Session15/Day2/*.csv
+**/Session15/Day2/*.txt
+**/Session15/Day2/*.tbl
+**/Session15/Day2/*.gz
