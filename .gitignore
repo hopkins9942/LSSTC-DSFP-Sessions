@@ -17,3 +17,4 @@ __pycache__
 **/Session15/Day3/IMDb*.gz
 
 **/Session16/Day4/*datasets/
+**/Session16/Day5/*.pickle
